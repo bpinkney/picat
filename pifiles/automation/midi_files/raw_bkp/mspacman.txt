@@ -1,0 +1,41 @@
+MIDITONES_SCROLL V1.8 on Sat Mar 23 00:21:40 2019
+command line: /home/pi/automation/midi_reader/miditones/miditones_scroll mspacman 
+reading mspacman.bin with 148 bytes
+displaying only 6 tone generators.
+
+       time    gen0  gen1  gen2  gen3  gen4  gen5 delay  addr  bytestream code
+
+      0.000    5C#                                0.070  0000: 90 49 00 46 
+      0.070    5D#                                0.071  0004: 90 4B 00 47 
+      0.141    5F                                 0.142  0008: 90 4D 00 8E 
+      0.283    5F#   2F#                          0.283  000C: 90 4E 91 2A 01 1B 
+      0.566    5A#   2F#                          0.259  0012: 90 52 01 03 
+      0.825    5A#                                0.024  0016: 81 00 18 
+      0.849    5G#   2C#                          0.283  0019: 90 50 91 25 01 1B 
+      1.132    5B    2C#                          0.259  001F: 90 53 01 03 
+      1.391    5B                                 0.024  0023: 81 00 18 
+      1.415    5A#   2F#                          0.141  0026: 90 52 91 2A 00 8D 
+      1.556    5B    2F#                          0.142  002C: 90 53 00 8E 
+      1.698    6C#   2F#                          0.141  0030: 90 55 00 8D 
+      1.839    5A#   2F#                          0.118  0034: 90 52 00 76 
+      1.957    5A#                                0.024  0038: 81 00 18 
+      1.981    5G#   2G#                          0.141  003B: 90 50 91 2C 00 8D 
+      2.122    5G#   2A#                          0.142  0041: 91 2E 00 8E 
+      2.264    5B    2B                           0.141  0045: 90 53 91 2F 00 8D 
+      2.405    5B    2G#                          0.142  004B: 91 2C 00 8E 
+      2.547    5A#   2A#                          0.141  004F: 90 52 91 2E 00 8D 
+      2.688    5B    2G#                          0.142  0055: 90 53 91 2C 00 8E 
+      2.830    6C#   2F#                          0.141  005B: 90 55 91 2A 00 8D 
+      2.971    5A#   2A#                          0.142  0061: 90 52 91 2E 00 8E 
+      3.113    5B    2G#                          0.141  0067: 90 53 91 2C 00 8D 
+      3.254    6C#   2F#                          0.142  006D: 90 55 91 2A 00 8E 
+      3.396    6D#   2F                           0.141  0073: 90 57 91 29 00 8D 
+      3.537    6F    2G#                          0.142  0079: 90 59 91 2C 00 8E 
+      3.679    6F#   2F#                          0.283  007F: 90 5A 91 2A 01 1B 
+      3.962    6F    2F                           0.283  0085: 90 59 91 29 01 1B 
+      4.245    6F#   2F#                          0.283  008B: 90 5A 91 2A 01 1B 
+      4.528                                       0.000  0091: 80 81 F0 
+
+At most 2 tone generators were used.
+0 stopnote commands were unnecessary.
+0 consecutive delays could have been merged.

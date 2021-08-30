@@ -1,0 +1,34 @@
+#!/bin/bash
+
+DIRECTORY=$1
+
+CALL_DIR=`pwd`
+
+cd "$DIRECTORY"
+
+for file in *.mid; do
+  base_filename=`basename $file .mid`
+  echo $base_filename
+
+  #parse midi to bin
+  /home/pi/automation/midi_reader/miditones/miditones -b $base_filename
+  #parse bin to txt
+  /home/pi/automation/midi_reader/miditones/miditones_scroll $base_filename
+
+  #convert fixed-space scroll file to csv
+  SUFFIX=".txt"
+  /home/pi/automation/bin/midi_csv_processor "$base_filename$SUFFIX"
+
+  SUFFIXALSO="parsed.csv"
+
+  SUFFIX_PUBLISH=".midicsv"
+
+  mkdir -p "../publish_candidates/"
+
+  mv "$base_filename$SUFFIX$SUFFIXALSO" "../publish_candidates/$base_filename$SUFFIX_PUBLISH"
+
+done
+
+ls "../publish_candidates/"
+
+cd "$CALL_DIR"

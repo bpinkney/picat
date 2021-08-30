@@ -1,0 +1,14 @@
+#!/bin/bash
+
+dt=$(date '+%d/%m/%Y %H:%M:%S');
+
+ext_ip=$(dig @resolver1.opendns.com ANY myip.opendns.com +short)
+
+echo "RPi Test Message '$1'\nExternal IP is currently '$ext_ip'" > message_body.txt
+
+mpack -s "$dt RPi checking in" -d message_body.txt "/home/pi/automation/test/cat.jpg" bp.webserver@gmail.com
+rm message_body.txt
+
+echo "$1"
+
+echo "Done."

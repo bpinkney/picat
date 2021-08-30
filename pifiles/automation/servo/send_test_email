@@ -1,0 +1,29 @@
+#!/bin/bash
+
+dt=$(date '+%d/%m/%Y %H:%M:%S');
+
+ext_ip=$(dig @resolver1.opendns.com ANY myip.opendns.com +short)
+
+echo "$1, External IP is currently '$ext_ip'" > message_body.txt
+
+i="0"
+
+#try 4 times for the email
+while [ $i -lt 4 ]
+do
+
+  mpack -s "$dt RPi checking in" -d message_body.txt "/home/pi/automation/test/cat.jpg" EMAILHERE
+
+  if [ "$?" -eq 0 ]; then
+      break
+  fi
+  i=$[$i+1]
+
+done
+
+
+rm message_body.txt
+
+echo "$1"
+
+echo "Done."

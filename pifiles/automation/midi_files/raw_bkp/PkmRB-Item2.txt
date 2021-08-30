@@ -1,0 +1,29 @@
+MIDITONES_SCROLL V1.8 on Thu Mar 21 00:14:33 2019
+command line: /home/pi/automation/midi_reader/miditones/miditones_scroll PkmRB-Item2 
+reading PkmRB-Item2.bin with 106 bytes
+displaying only 6 tone generators.
+
+       time    gen0  gen1  gen2  gen3  gen4  gen5 delay  addr  bytestream code
+
+      0.000    5D    5A    5F                     0.342  0000: 90 4A 91 51 92 4D 01 56 
+      0.342    5C    5D#                          0.343  0008: 90 48 92 4D 91 4B 82 01 57 
+      0.685    4A          5C                     0.686  0011: 90 45 92 48 92 48 81 02 AE 
+      1.371    5D#   5A#                          0.086  001A: 90 4B 91 52 90 4B 82 00 56 
+      1.457          5A#                          0.085  0023: 80 00 55 
+      1.542    5D#   5A#                          0.086  0026: 90 4B 91 52 90 4B 00 56 
+      1.628          5A#                          0.086  002E: 80 00 56 
+      1.714    5D    5A#   5E                     0.085  0031: 90 4A 91 52 92 4C 00 55 
+      1.799    5D    5A#                          0.086  0039: 82 00 56 
+      1.885    5C    5G    5F                     0.086  003C: 90 48 91 4F 92 4D 00 56 
+      1.971    5C    5G                           0.086  0044: 82 00 56 
+      2.057    5C    5G    5F                     0.085  0047: 90 48 91 4F 92 4D 00 55 
+      2.142    5C    5G                           0.086  004F: 82 00 56 
+      2.228    4A#   5A#   5G                     0.086  0052: 90 46 91 52 92 4F 00 56 
+      2.314    4A#   5A#                          0.085  005A: 82 00 55 
+      2.399    5C    5A                           1.029  005D: 90 48 91 51 91 51 04 05 
+      3.428                                       0.343  0065: 80 81 01 57 
+      3.771                                       0.000  0069: F0 
+
+At most 3 tone generators were used.
+0 stopnote commands were unnecessary.
+0 consecutive delays could have been merged.

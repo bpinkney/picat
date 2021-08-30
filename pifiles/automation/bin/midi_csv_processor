@@ -1,0 +1,23 @@
+#!/bin/bash
+
+# first, convert the midi with miditones_scroll
+# ./miditones -b <filename>; ./miditones_scroll <filename>
+
+input_file=$1
+#now use gawk to parse the fixed-width output file
+#e.g. gawk '$1=$1' FIELDWIDTHS='11 7 6 6 6 6 6 7' OFS=, tester.txt
+#"    154.200    5A#   1A#   2A#         2D    4G   0.076  1CF6: 83 00 4C "
+#becomes
+#"    154.200,    5A#,   1A#,   2A#,      ,   2D ,   4G ,  0.076"
+gawk_parsed=`gawk '$1=$1' FIELDWIDTHS='11 7 6 6 6 6 6 7' OFS=, $input_file`
+
+#then remove spaces with sed
+sed_parsed=`echo "$gawk_parsed" | sed 's/ //g'`
+
+#then remove header with grep
+grep_parsed=`echo "$sed_parsed" | grep -v "^[a-zA-Z]"`
+grep_parsed=`echo "$grep_parsed" | grep "\.[0-9][0-9][0-9]\,"` #look for decimaals for time
+
+#finally, we have our c-readable csv file
+suffix="parsed.csv"
+echo "$grep_parsed" > "$1$suffix"

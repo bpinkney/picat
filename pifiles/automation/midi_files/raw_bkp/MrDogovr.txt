@@ -1,0 +1,37 @@
+MIDITONES_SCROLL V1.8 on Sat Mar 23 00:21:40 2019
+command line: /home/pi/automation/midi_reader/miditones/miditones_scroll MrDogovr 
+reading MrDogovr.bin with 160 bytes
+displaying only 6 tone generators.
+
+       time    gen0  gen1  gen2  gen3  gen4  gen5 delay  addr  bytestream code
+
+      0.000    5F    4A    4F                     0.150  0000: 90 4D 91 45 92 41 00 96 
+      0.150          4A                           0.150  0008: 80 82 00 96 
+      0.300    6C    5C    4C                     0.150  000C: 90 54 91 48 92 3C 00 96 
+      0.450    6C    5C    4C                     0.150  0014: 90 54 92 3C 00 96 
+      0.600    5A    4A    4D                     0.300  001A: 90 51 91 45 92 3E 01 2C 
+      0.900    5F    5C    4F                     0.150  0022: 90 4D 91 48 92 41 00 96 
+      1.050    5F    5C                           0.150  002A: 82 00 96 
+      1.200    5F    4A    4F                     0.150  002D: 90 4D 91 45 92 41 00 96 
+      1.350          4A                           0.150  0035: 80 82 00 96 
+      1.500    6C    5C    4C                     0.150  0039: 90 54 91 48 92 3C 00 96 
+      1.650    6C    5C    4C                     0.150  0041: 90 54 92 3C 00 96 
+      1.800    5A    4A    4D                     0.300  0047: 90 51 91 45 92 3E 01 2C 
+      2.100    5F    5C    4F                     0.150  004F: 90 4D 91 48 92 41 00 96 
+      2.250    5F    5C                           0.150  0057: 82 00 96 
+      2.400    5G    4G                           0.150  005A: 90 4F 91 43 91 43 00 96 
+      2.550                                       0.150  0062: 80 81 00 96 
+      2.700    6C    5C    4C                     0.150  0066: 90 54 91 48 92 3C 00 96 
+      2.850    6C    5C    4C                     0.150  006E: 90 54 92 3C 00 96 
+      3.000    6C    4G    4C                     0.300  0074: 90 54 91 43 92 3C 01 2C 
+      3.300    6C    5C                           0.300  007C: 91 48 82 01 2C 
+      3.600                                       0.300  0081: 80 81 01 2C 
+      3.900    5C    3C    4C                     0.150  0085: 90 48 91 30 92 3C 00 96 
+      4.050                                       0.150  008D: 80 81 82 00 96 
+      4.200    5F    3F    4F                     0.150  0092: 90 4D 91 35 92 41 00 96 
+      4.350          3F                           0.150  009A: 80 82 00 96 
+      4.500                                       0.000  009E: 81 F0 
+
+At most 3 tone generators were used.
+0 stopnote commands were unnecessary.
+0 consecutive delays could have been merged.

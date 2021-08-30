@@ -1,0 +1,30 @@
+MIDITONES_SCROLL V1.8 on Thu Mar 21 00:30:09 2019
+command line: /home/pi/automation/midi_reader/miditones/miditones_scroll smas13 
+reading smas13.bin with 139 bytes
+displaying only 6 tone generators.
+
+       time    gen0  gen1  gen2  gen3  gen4  gen5 delay  addr  bytestream code
+
+      0.000    4A    2F    4E    5C               0.176  0000: 90 45 91 29 92 40 93 48 00 B0 
+      0.176          2F                           0.016  000A: 80 82 83 00 10 
+      0.192    4B    2F    4E    5D               0.176  000F: 90 47 92 40 93 4A 00 B0 
+      0.368          2F                           0.016  0017: 80 82 83 00 10 
+      0.384    5C    2F    4E    5E               0.176  001C: 90 48 92 40 93 4C 00 B0 
+      0.560                                       0.016  0024: 80 81 82 83 00 10 
+      0.576    5D    2D    4E    5F               0.176  002A: 90 4A 91 26 92 40 93 4D 00 B0 
+      0.752    5D    2D          5F               0.192  0034: 82 00 C0 
+      0.944                                       0.016  0037: 80 81 83 00 10 
+      0.960    5E    2D    4E    5G               0.176  003C: 90 4C 91 26 92 40 93 4F 00 B0 
+      1.136                                       0.016  0046: 80 81 82 83 00 10 
+      1.152    5F    2G    4E    5A               0.176  004C: 90 4D 91 2B 92 40 93 51 00 B0 
+      1.328                                       0.016  0056: 80 81 82 83 00 10 
+      1.344    5G    2G    4E    5B               0.176  005C: 90 4F 91 2B 92 40 93 53 00 B0 
+      1.520                                       0.016  0066: 80 81 82 83 00 10 
+      1.536    5E    2C    4E    6C               0.368  006C: 90 4C 91 24 92 40 93 54 01 70 
+      1.904                                       0.400  0076: 80 81 82 83 01 90 
+      2.304    4E    2C    4G    5C               0.368  007C: 90 40 91 24 92 43 93 48 01 70 
+      2.672                                       0.000  0086: 80 81 82 83 F0 
+
+At most 4 tone generators were used.
+0 stopnote commands were unnecessary.
+0 consecutive delays could have been merged.

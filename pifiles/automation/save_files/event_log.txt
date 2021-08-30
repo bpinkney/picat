@@ -1,0 +1,399 @@
+made the event log
+added another test event
+Mar,09,2019 01:37:57 AMSaved the feeding schedule
+09,Mar,2019 01:38:34 AM - Saved the feeding schedule
+09,Mar,2019 01:38:41 AM - Saved the feeding schedule
+09,Mar,2019 01:38:43 AM - Saved the feeding schedule
+09,Mar,2019 01:38:46 AM - Saved the feeding schedule
+09,Mar,2019 01:38:50 AM - Saved the feeding schedule
+01:42:11 AM - 09,Mar,2019 - Saved the feeding schedule
+01:42:14 AM - 09,Mar,2019 - Saved the feeding schedule
+01:46:17 AM  09/Mar/2019 - Saved the feeding schedule
+01:48:45 AM  09/Mar/2019 - Saved the feeding schedule
+01:48:46 AM  09/Mar/2019 - Saved the feeding schedule
+01:48:47 AM  09/Mar/2019 - Saved the feeding schedule
+01:49:06 AM  09/Mar/2019 - Saved the feeding schedule
+01:49:07 AM  09/Mar/2019 - Saved the feeding schedule
+01:49:29 AM  09/Mar/2019 - Saved the feeding schedule
+01:49:30 AM  09/Mar/2019 - Saved the feeding schedule
+01:49:31 AM  09/Mar/2019 - Saved the feeding schedule
+01:49:55 AM  09/Mar/2019 - Saved the feeding schedule
+01:51:36 AM  09/Mar/2019 - MANUAL feed dispensed 1 portions
+01:52:08 AM  09/Mar/2019 - MANUAL feed dispensed 1 portions
+01:53:56 AM  09/Mar/2019 - Saved the feeding schedule
+01:54:03 AM  09/Mar/2019 - MANUAL feed dispensed 1 portions
+01:54:30 AM  09/Mar/2019 - Saved the feeding schedule
+01:54:36 AM  09/Mar/2019 - MANUAL feed dispensed 1 portions
+02:17:42 AM  09/Mar/2019 - Saved the feeding schedule
+02:23:40 AM  09/Mar/2019 - Saved the feeding schedule
+02:36:34 AM  09/Mar/2019 - Saved the feeding schedule
+02:36:54 AM  09/Mar/2019 - Saved the feeding schedule
+02:44:49 AM  09/Mar/2019 - Saved the feeding schedule
+02:53:19 AM  09/Mar/2019 - Saved the feeding schedule
+03:02:38 AM  09/Mar/2019 - Saved the feeding schedule
+03:02:47 AM  09/Mar/2019 - MANUAL feed dispensed 1 portions
+03:03:14 AM  09/Mar/2019 - MANUAL feed dispensed 1 portions
+10:12:02 PM  08/Mar/2019 - Saved the feeding schedule
+10:27:02 PM  08/Mar/2019 - Saved the feeding schedule
+10:27:39 PM  08/Mar/2019 - Saved the feeding schedule
+TEST
+10:50:31 PM  08/Mar/2019 - Saved the feeding schedule
+10:50:48 PM  08/Mar/2019 - Saved the feeding schedule
+10:50:57 PM  08/Mar/2019 - Saved the feeding schedule
+10:51:29 pm 08/Mar/2019 - AUTOMATIC feed dispensed %portion_i portions
+10:52:04 pm 08/Mar/2019 - AUTOMATIC feed dispensed %portion_i portions
+10:52:39 pm 08/Mar/2019 - AUTOMATIC feed dispensed %portion_i portions
+11:32:07 PM  08/Mar/2019 - MANUAL feed dispensed 1 portions
+11:32:13 PM  08/Mar/2019 - Saved the feeding schedule
+11:32:19 PM  08/Mar/2019 - Saved the feeding schedule
+11:32:24 PM  08/Mar/2019 - Saved the feeding schedule
+11:34:32 pm 08/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+11:35:12 pm 08/Mar/2019 - AUTOMATIC feed dispensed 3 portions
+11:35:54 pm 08/Mar/2019 - AUTOMATIC feed dispensed 3 portions\n
+11:52:03 PM  08/Mar/2019 - Saved the feeding schedule
+12:16:57 AM  09/Mar/2019 - MANUAL feed dispensed 1 portions
+12:18:36 AM  09/Mar/2019 - Saved the feeding schedule
+12:21:01 AM  09/Mar/2019 - Saved the feeding schedule
+12:40:11 AM  09/Mar/2019 - Saved the feeding schedule
+12:41:07 am 09/Mar/2019 - AUTOMATIC feed dispensed 1 portions\n
+12:41:46 am 09/Mar/2019 - AUTOMATIC feed dispensed 1 portions\n
+01:20:17 AM  09/Mar/2019 - Saved the feeding schedule
+01:20:23 AM  09/Mar/2019 - Saved the feeding schedule
+01:25:05 am 09/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+
+01:25:25 am 09/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+
+01:25:45 am 09/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+
+01:27:09 am 09/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+
+01:27:29 am 09/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+
+01:27:49 am 09/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+
+12:49:52 PM  09/Mar/2019 - Saved the feeding schedule
+12:53:12 pm 09/Mar/2019 - AUTOMATIC feed dispensed 1 portions\r\n
+12:54:00 pm 09/Mar/2019 - AUTOMATIC feed dispensed 1 portions\r\n
+04:49:00 PM  09/Mar/2019 - Saved the feeding schedule
+04:49:41 PM  09/Mar/2019 - Saved the feeding schedule04:51:26 PM  09/Mar/2019 - Saved the feeding schedule04:51:41 PM  09/Mar/2019 - Saved the feeding schedule
+
+05:03:09 PM  09/Mar/2019 - Saved the feeding schedule05:03:11 PM  09/Mar/2019 - Saved the feeding schedule05:03:11 PM  09/Mar/2019 - Saved the feeding schedule05:03:12 PM  09/Mar/2019 - Saved the feeding schedule05:03:13 PM  09/Mar/2019 - Saved the feeding schedule05:03:14 PM  09/Mar/2019 - Saved the feeding schedule05:03:19 PM  09/Mar/2019 - MANUAL feed dispensed 1 portions05:04:49 PM  09/Mar/2019 - Saved the feeding schedule
+05:07:45 PM  09/Mar/2019 - Saved the feeding schedule
+05:09:14 PM  09/Mar/2019 - Saved the feeding schedule
+05:12:45 PM  09/Mar/2019 - Saved the feeding schedule
+05:14:06 PM  09/Mar/2019 - Saved the feeding schedule05:15:13 pm 09/Mar/2019 - 
+05:16:07 PM  09/Mar/2019 - Saved the feeding schedule05:17:00 pm 09/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+05:21:36 PM  09/Mar/2019 - Saved the feeding schedule05:22:07 pm 09/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+05:26:12 PM  09/Mar/2019 - Saved the feeding schedule05:27:07 pm 09/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+05:28:05 PM  09/Mar/2019 - Saved the feeding schedule05:29:03 pm 09/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+05:31:18 PM  09/Mar/2019 - Saved the feeding schedule05:32:03 pm 09/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+05:38:15 PM  09/Mar/2019 - Saved the feeding schedule05:39:11 pm 09/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+05:41:03 PM  09/Mar/2019 - MANUAL feed dispensed 1 portions05:41:10 PM  09/Mar/2019 - MANUAL feed dispensed 1 portions05:42:36 PM  09/Mar/2019 - MANUAL feed dispensed 1 portions
+05:42:43 PM  09/Mar/2019 - MANUAL feed dispensed 1 portions
+05:43:04 PM  09/Mar/2019 - Saved the feeding schedule
+05:43:06 PM  09/Mar/2019 - Saved the feeding schedule
+05:43:10 PM  09/Mar/2019 - Saved the feeding schedule
+05:43:12 PM  09/Mar/2019 - Saved the feeding schedule
+05:43:19 PM  09/Mar/2019 - MANUAL feed dispensed 1 portions
+05:43:25 PM  09/Mar/2019 - Saved the feeding schedule
+05:43:32 PM  09/Mar/2019 - MANUAL feed dispensed 1 portions
+05:44:43 PM  09/Mar/2019 - Saved the feeding schedule
+05:45:04 pm 09/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+
+05:45:38 PM  09/Mar/2019 - Saved the feeding schedule
+05:46:15 pm 09/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+
+05:47:48 PM  09/Mar/2019 - Saved the feeding schedule
+05:47:57 PM  09/Mar/2019 - MANUAL feed dispensed 1 portions
+05:48:10 pm 09/Mar/2019 - AUTOMATIC feed dispensed 1 portions\n
+05:48:26 PM  09/Mar/2019 - Saved the feeding schedule
+05:48:27 PM  09/Mar/2019 - Saved the feeding schedule
+05:48:28 PM  09/Mar/2019 - Saved the feeding schedule
+05:49:27 PM  09/Mar/2019 - Saved the feeding schedule
+05:49:29 PM  09/Mar/2019 - Saved the feeding schedule
+05:49:40 PM  09/Mar/2019 - Saved the feeding schedule
+05:50:13 pm 09/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+05:50:36 PM  09/Mar/2019 - MANUAL feed dispensed 1 portions
+05:50:43 PM  09/Mar/2019 - Saved the feeding schedule
+05:51:08 pm 09/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+05:52:04 PM  09/Mar/2019 - Saved the feeding schedule
+05:57:48 PM  09/Mar/2019 - Saved the feeding schedule
+08:23:26 PM  09/Mar/2019 - Saved the feeding schedule
+09:00:03 pm 09/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+07:00:02 am 10/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+12:58:30 PM  10/Mar/2019 - Saved the feeding schedule
+12:59:09 pm 10/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+01:00:42 PM  10/Mar/2019 - Saved the feeding schedule
+02:00:07 pm 10/Mar/2019 - AUTOMATIC feed dispensed 2 portions
+09:00:13 pm 10/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+11:45:35 PM  10/Mar/2019 - MANUAL feed dispensed 1 portions
+09:00:02 am 11/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+02:00:06 pm 11/Mar/2019 - AUTOMATIC feed dispensed 2 portions
+09:00:12 pm 11/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+11:47:54 PM  11/Mar/2019 - Saved the feeding schedule
+11:48:09 pm 11/Mar/2019 - AUTOMATIC feed dispensed 2 portions
+11:49:08 PM  11/Mar/2019 - Saved the feeding schedule
+09:00:00 am 12/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+02:00:08 pm 12/Mar/2019 - AUTOMATIC feed dispensed 2 portions
+06:30:13 PM  12/Mar/2019 - MANUAL feed dispensed 1 portions
+07:34:43 PM  12/Mar/2019 - MANUAL feed dispensed 1 portions
+07:35:08 PM  12/Mar/2019 - MANUAL feed dispensed 1 portions
+07:35:19 PM  12/Mar/2019 - Saved the feeding schedule
+07:35:27 PM  12/Mar/2019 - Saved the feeding schedule
+07:36:30 PM  12/Mar/2019 - Saved the feeding schedule
+07:36:34 PM  12/Mar/2019 - Saved the feeding schedule
+07:36:02 pm 12/Mar/2019 - AUTOMATIC feed dispensed 4 portions
+09:00:13 pm 12/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+09:00:00 am 13/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+06:19:44 PM  13/Mar/2019 - Saved the feeding schedule
+06:19:54 PM  13/Mar/2019 - MANUAL feed dispensed 1 portions
+11:00:00 pm 13/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+11:43:50 PM  13/Mar/2019 - MANUAL feed dispensed 1 portions
+11:43:59 PM  13/Mar/2019 - MANUAL feed dispensed 1 portions
+11:44:07 PM  13/Mar/2019 - MANUAL feed dispensed 1 portions
+09:00:52 am 14/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+02:30:02 pm 14/Mar/2019 - AUTOMATIC feed dispensed 2 portions
+11:00:00 pm 14/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+                                                            01:21:14 AM  15/Mar/2019 - MANUAL feed dispensed 1 portions
+01:21:41 AM  15/Mar/2019 - MANUAL feed dispensed 1 portions
+01:21:47 AM  15/Mar/2019 - Saved the feeding schedule
+09:00:05 am 15/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+06:21:46 PM  15/Mar/2019 - MANUAL feed dispensed 2 portions
+06:21:50 PM  15/Mar/2019 - Saved the feeding schedule
+06:22:00 PM  15/Mar/2019 - MANUAL feed dispensed 1 portions
+06:23:28 PM  15/Mar/2019 - MANUAL feed dispensed 1 portions
+06:24:29 PM  15/Mar/2019 - MANUAL feed dispensed 1 portions
+06:27:20 PM  15/Mar/2019 - MANUAL feed dispensed 1 portions
+06:27:26 PM  15/Mar/2019 - MANUAL feed dispensed 1 portions
+06:27:35 PM  15/Mar/2019 - MANUAL feed dispensed 1 portions
+06:27:39 PM  15/Mar/2019 - Saved the feeding schedule
+06:28:30 PM  15/Mar/2019 - MANUAL feed dispensed 10 portions
+06:29:26 PM  15/Mar/2019 - MANUAL feed dispensed 10 portions
+06:30:24 PM  15/Mar/2019 - MANUAL feed dispensed 10 portions
+08:05:09 PM  15/Mar/2019 - Saved the feeding schedule
+08:05:16 PM  15/Mar/2019 - MANUAL feed dispensed 1 portions
+08:05:23 PM  15/Mar/2019 - MANUAL feed dispensed 1 portions
+11:00:04 pm 15/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+09:00:11 am 16/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+11:28:05 AM  16/Mar/2019 - Saved the feeding schedule
+11:28:33 AM  16/Mar/2019 - MANUAL feed dispensed 5 portions
+02:30:05 pm 16/Mar/2019 - AUTOMATIC feed dispensed 2 portions
+09:43:34 PM  16/Mar/2019 - MANUAL feed dispensed 5 portions
+09:43:39 PM  16/Mar/2019 - Saved the feeding schedule
+11:00:06 pm 16/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+09:00:09 am 17/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+02:30:04 pm 17/Mar/2019 - AUTOMATIC feed dispensed 2 portions
+04:30:34 PM  17/Mar/2019 - Saved the feeding schedule
+04:38:37 PM  17/Mar/2019 - Saved the feeding schedule
+04:41:03 PM  17/Mar/2019 - Saved the feeding schedule
+04:42:16 PM  17/Mar/2019 - Saved the feeding schedule
+04:42:24 PM  17/Mar/2019 - MANUAL feed dispensed 1 portions
+04:43:05 PM  17/Mar/2019 - Saved the feeding schedule
+04:44:46 PM  17/Mar/2019 - Saved the feeding schedule
+04:44:50 PM  17/Mar/2019 - Saved the feeding schedule
+04:47:46 PM  17/Mar/2019 - Saved the feeding schedule
+04:47:49 PM  17/Mar/2019 - Saved the feeding schedule
+04:47:55 PM  17/Mar/2019 - Saved the feeding schedule
+04:47:58 PM  17/Mar/2019 - Saved the feeding schedule
+04:48:06 PM  17/Mar/2019 - Saved the feeding schedule
+04:48:54 PM  17/Mar/2019 - Saved the feeding schedule
+04:49:03 PM  17/Mar/2019 - Saved the feeding schedule
+04:49:06 PM  17/Mar/2019 - Saved the feeding schedule
+04:49:08 PM  17/Mar/2019 - Saved the feeding schedule
+04:59:08 PM  17/Mar/2019 - Saved the feeding schedule
+05:00:01 pm 17/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+05:00:58 PM  17/Mar/2019 - Saved the feeding schedule
+05:01:14 pm 17/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+05:01:21 PM  17/Mar/2019 - Saved the feeding schedule
+05:02:07 pm 17/Mar/2019 - AUTOMATIC feed dispensed 2 portions
+05:11:51 PM  17/Mar/2019 - Saved the feeding schedule
+05:12:14 pm 17/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+05:13:14 PM  17/Mar/2019 - Saved the feeding schedule
+05:13:26 PM  17/Mar/2019 - Saved the feeding schedule
+05:14:12 pm 17/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+05:14:34 PM  17/Mar/2019 - Saved the feeding schedule
+05:15:10 PM  17/Mar/2019 - Saved the feeding schedule
+09:00:11 pm 17/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+09:00:11 am 18/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+01:24:33 PM  18/Mar/2019 - Saved the feeding schedule
+02:30:06 pm 18/Mar/2019 - AUTOMATIC feed dispensed 2 portions
+09:00:03 pm 18/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+09:00:15 am 19/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+02:30:07 pm 19/Mar/2019 - AUTOMATIC feed dispensed 2 portions
+09:00:15 pm 19/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+09:00:10 am 20/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+02:30:01 pm 20/Mar/2019 - AUTOMATIC feed dispensed 2 portions
+09:00:09 pm 20/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+09:00:01 am 21/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+02:30:09 pm 21/Mar/2019 - AUTOMATIC feed dispensed 2 portions
+08:52:09 PM  21/Mar/2019 - Saved the feeding schedule
+08:52:13 PM  21/Mar/2019 - Saved the feeding schedule
+08:54:14 PM  21/Mar/2019 - Saved the feeding schedule
+08:54:16 PM  21/Mar/2019 - Saved the feeding schedule
+08:55:31 PM  21/Mar/2019 - Saved the feeding schedule
+08:57:28 PM  21/Mar/2019 - Saved the feeding schedule
+08:57:50 PM  21/Mar/2019 - Saved the feeding schedule
+08:57:54 PM  21/Mar/2019 - Saved the feeding schedule
+08:57:56 PM  21/Mar/2019 - Saved the feeding schedule
+08:58:47 PM  21/Mar/2019 - Saved the feeding schedule
+09:00:01 pm 21/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+09:03:22 PM  21/Mar/2019 - Saved the feeding schedule
+09:09:41 PM  21/Mar/2019 - Saved the feeding schedule
+09:09:44 PM  21/Mar/2019 - Saved the feeding schedule
+09:10:14 PM  21/Mar/2019 - Saved the feeding schedule
+09:11:01 pm 21/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+09:12:29 PM  21/Mar/2019 - Saved the feeding schedule
+09:13:05 pm 21/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+09:13:51 PM  21/Mar/2019 - Saved the feeding schedule
+09:14:00 PM  21/Mar/2019 - Saved the feeding schedule
+09:14:24 PM  21/Mar/2019 - Saved the feeding schedule
+09:14:12 pm 21/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+09:14:33 PM  21/Mar/2019 - Saved the feeding schedule
+09:14:48 PM  21/Mar/2019 - Saved the feeding schedule
+09:14:50 PM  21/Mar/2019 - Saved the feeding schedule
+09:14:52 PM  21/Mar/2019 - Saved the feeding schedule
+09:15:51 PM  21/Mar/2019 - Saved the feeding schedule
+09:15:54 PM  21/Mar/2019 - Saved the feeding schedule
+09:15:02 pm 21/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+09:16:04 PM  21/Mar/2019 - Saved the feeding schedule
+09:16:11 PM  21/Mar/2019 - Saved the feeding schedule
+09:16:14 PM  21/Mar/2019 - Saved the feeding schedule
+09:20:17 PM  21/Mar/2019 - Saved the feeding schedule
+09:20:21 PM  21/Mar/2019 - Saved the feeding schedule
+09:20:31 PM  21/Mar/2019 - Saved the feeding schedule
+09:20:34 PM  21/Mar/2019 - Saved the feeding schedule
+09:20:42 PM  21/Mar/2019 - Saved the feeding schedule
+09:20:44 PM  21/Mar/2019 - Saved the feeding schedule
+09:21:12 pm 21/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+09:22:35 PM  21/Mar/2019 - Saved the feeding schedule
+09:22:47 PM  21/Mar/2019 - Saved the feeding schedule
+09:30:19 PM  21/Mar/2019 - Saved the feeding schedule
+09:30:24 PM  21/Mar/2019 - Saved the feeding schedule
+09:32:25 PM  21/Mar/2019 - Saved the feeding schedule
+09:32:30 PM  21/Mar/2019 - Saved the feeding schedule
+09:32:32 PM  21/Mar/2019 - Saved the feeding schedule
+09:32:33 PM  21/Mar/2019 - Saved the feeding schedule
+09:32:34 PM  21/Mar/2019 - Saved the feeding schedule
+09:33:26 PM  21/Mar/2019 - Saved the feeding schedule
+09:34:44 PM  21/Mar/2019 - Saved the feeding schedule
+09:35:35 PM  21/Mar/2019 - Saved the feeding schedule
+09:36:36 PM  21/Mar/2019 - Saved the feeding schedule
+09:38:42 PM  21/Mar/2019 - Saved the feeding schedule
+09:39:37 PM  21/Mar/2019 - Saved the feeding schedule
+09:39:45 PM  21/Mar/2019 - Saved the feeding schedule
+10:03:59 PM  21/Mar/2019 - MANUAL feed dispensed 1 portions
+11:59:04 PM  21/Mar/2019 - Saved the feeding schedule
+11:59:33 PM  21/Mar/2019 - Saved the feeding schedule
+11:59:36 PM  21/Mar/2019 - Saved the feeding schedule
+11:33:36 PM  22/Mar/2019 - Saved the feeding schedule
+11:33:41 PM  22/Mar/2019 - Saved the feeding schedule
+09:00:00 am 23/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+02:30:14 pm 23/Mar/2019 - AUTOMATIC feed dispensed 2 portions
+02:34:45 PM  23/Mar/2019 - Saved the feeding schedule
+02:34:52 PM  23/Mar/2019 - Saved the feeding schedule
+02:34:54 PM  23/Mar/2019 - Saved the feeding schedule
+02:34:55 PM  23/Mar/2019 - Saved the feeding schedule
+02:34:58 PM  23/Mar/2019 - Saved the feeding schedule
+02:35:07 PM  23/Mar/2019 - Saved the feeding schedule
+02:35:34 PM  23/Mar/2019 - Saved the feeding schedule
+02:35:43 PM  23/Mar/2019 - Saved the feeding schedule
+02:47:53 PM  23/Mar/2019 - Saved the feeding schedule
+02:49:27 PM  23/Mar/2019 - Saved the feeding schedule
+02:49:45 PM  23/Mar/2019 - Saved the feeding schedule
+02:50:28 PM  23/Mar/2019 - Saved the feeding schedule
+02:52:44 PM  23/Mar/2019 - Saved the feeding schedule
+02:52:49 PM  23/Mar/2019 - Saved the feeding schedule
+02:53:02 PM  23/Mar/2019 - Saved the feeding schedule
+02:53:45 PM  23/Mar/2019 - Saved the feeding schedule
+02:53:48 PM  23/Mar/2019 - Saved the feeding schedule
+02:55:49 PM  23/Mar/2019 - Saved the feeding schedule
+02:55:58 PM  23/Mar/2019 - Saved the feeding schedule
+02:56:01 PM  23/Mar/2019 - Saved the feeding schedule
+02:56:31 PM  23/Mar/2019 - Saved the feeding schedule
+02:56:35 PM  23/Mar/2019 - Saved the feeding schedule
+02:59:07 PM  23/Mar/2019 - Saved the feeding schedule
+02:59:12 PM  23/Mar/2019 - Saved the feeding schedule
+02:59:16 PM  23/Mar/2019 - Saved the feeding schedule
+03:00:01 PM  23/Mar/2019 - Saved the feeding schedule
+03:00:04 PM  23/Mar/2019 - Saved the feeding schedule
+03:01:59 PM  23/Mar/2019 - Saved the feeding schedule
+03:02:49 PM  23/Mar/2019 - Saved the feeding schedule
+03:05:20 PM  23/Mar/2019 - Saved the feeding schedule
+03:05:26 PM  23/Mar/2019 - Saved the feeding schedule
+03:05:50 PM  23/Mar/2019 - Saved the feeding schedule
+03:06:10 PM  23/Mar/2019 - Saved the feeding schedule
+03:08:37 PM  23/Mar/2019 - Saved the feeding schedule
+03:09:02 PM  23/Mar/2019 - Saved the feeding schedule
+03:10:46 PM  23/Mar/2019 - Saved the feeding schedule
+03:19:17 PM  23/Mar/2019 - Saved the feeding schedule
+03:19:52 PM  23/Mar/2019 - Saved the feeding schedule
+03:20:13 PM  23/Mar/2019 - Saved the feeding schedule
+03:22:01 PM  23/Mar/2019 - Saved the feeding schedule
+03:23:00 PM  23/Mar/2019 - Saved the feeding schedule
+03:23:15 PM  23/Mar/2019 - Saved the feeding schedule
+03:23:59 PM  23/Mar/2019 - Saved the feeding schedule
+03:24:42 PM  23/Mar/2019 - Saved the feeding schedule
+03:24:46 PM  23/Mar/2019 - Saved the feeding schedule
+03:38:37 PM  23/Mar/2019 - Saved the feeding schedule
+03:38:50 PM  23/Mar/2019 - Saved the feeding schedule
+03:39:12 pm 23/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+03:39:43 PM  23/Mar/2019 - Saved the feeding schedule
+03:40:05 pm 23/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+03:40:36 PM  23/Mar/2019 - Saved the feeding schedule
+03:41:15 pm 23/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+03:41:55 PM  23/Mar/2019 - Saved the feeding schedule
+03:42:08 pm 23/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+11:31:53 PM  23/Mar/2019 - Saved the feeding schedule
+12:04:42 AM  24/Mar/2019 - Saved the feeding schedule
+12:04:55 AM  24/Mar/2019 - Saved the feeding schedule
+09:00:09 am 24/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+02:30:05 pm 24/Mar/2019 - AUTOMATIC feed dispensed 2 portions
+02:30:33 PM  24/Mar/2019 - Saved the feeding schedule
+05:42:41 PM  24/Mar/2019 - Saved the feeding schedule
+09:30:14 pm 24/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+10:44:06 PM  24/Mar/2019 - Saved the feeding schedule
+10:45:13 PM  24/Mar/2019 - Saved the feeding schedule
+09:00:14 am 25/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+08:19:16 PM  25/Mar/2019 - Saved the feeding schedule
+                                                            08:41:00 PM  25/Mar/2019 - Saved the feeding schedule
+08:41:27 PM  25/Mar/2019 - MANUAL feed dispensed 1 portions
+08:41:34 PM  25/Mar/2019 - MANUAL feed dispensed 1 portions
+08:41:46 PM  25/Mar/2019 - Saved the feeding schedule
+08:47:19 PM  25/Mar/2019 - MANUAL feed dispensed 1 portions
+08:47:26 PM  25/Mar/2019 - MANUAL feed dispensed 1 portions
+08:47:33 PM  25/Mar/2019 - MANUAL feed dispensed 1 portions
+08:47:39 PM  25/Mar/2019 - MANUAL feed dispensed 1 portions
+09:16:08 PM  25/Mar/2019 - MANUAL feed dispensed 1 portions
+09:17:05 PM  25/Mar/2019 - MANUAL feed dispensed 10 portions
+                                                                                                                         12:10:59 AM  27/Mar/2019 - MANUAL feed dispensed 1 portions
+12:11:54 AM  27/Mar/2019 - MANUAL feed dispensed 10 portions
+12:12:54 AM  27/Mar/2019 - Saved the feeding schedule
+12:14:22 AM  27/Mar/2019 - MANUAL feed dispensed 10 portions
+09:00:00 am 27/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+02:30:13 pm 27/Mar/2019 - AUTOMATIC feed dispensed 2 portions
+08:42:00 pm 27/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+09:00:11 am 28/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+02:30:10 pm 28/Mar/2019 - AUTOMATIC feed dispensed 2 portions
+08:42:13 pm 28/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+09:00:08 am 29/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+02:30:07 pm 29/Mar/2019 - AUTOMATIC feed dispensed 2 portions
+07:29:13 PM  29/Mar/2019 - MANUAL feed dispensed 1 portions
+08:42:55 pm 29/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+08:48:35 PM  29/Mar/2019 - MANUAL feed dispensed 1 portions
+08:48:42 PM  29/Mar/2019 - MANUAL feed dispensed 1 portions
+08:49:03 PM  29/Mar/2019 - Saved the feeding schedule
+09:00:14 pm 29/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+09:00:00 am 30/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+02:30:15 pm 30/Mar/2019 - AUTOMATIC feed dispensed 2 portions
+09:00:15 pm 30/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+02:30:01 pm 31/Mar/2019 - AUTOMATIC feed dispensed 2 portions
+09:00:14 pm 31/Mar/2019 - AUTOMATIC feed dispensed 1 portions
+02:30:07 pm 01/Apr/2019 - AUTOMATIC feed dispensed 2 portions
+09:00:05 pm 01/Apr/2019 - AUTOMATIC feed dispensed 1 portions
+09:00:55 am 02/Apr/2019 - AUTOMATIC feed dispensed 1 portions
+02:30:15 pm 02/Apr/2019 - AUTOMATIC feed dispensed 2 portions
+09:00:14 pm 02/Apr/2019 - AUTOMATIC feed dispensed 1 portions
+11:08:20 PM  02/Apr/2019 - MANUAL feed dispensed 1 portions
+11:08:31 PM  02/Apr/2019 - MANUAL feed dispensed 1 portions
+11:09:25 PM  02/Apr/2019 - MANUAL feed dispensed 1 portions
+11:09:43 PM  02/Apr/2019 - MANUAL feed dispensed 1 portions

@@ -1,0 +1,23 @@
+MIDITONES_SCROLL V1.8 on Sat Mar 23 00:21:38 2019
+command line: /home/pi/automation/midi_reader/miditones/miditones_scroll MrDodead 
+reading MrDodead.bin with 81 bytes
+displaying only 6 tone generators.
+
+       time    gen0  gen1  gen2  gen3  gen4  gen5 delay  addr  bytestream code
+
+      0.000    7G    7C    7E                     0.136  0000: 90 67 91 60 92 64 00 88 
+      0.136    7B    7G                           0.136  0008: 90 6B 92 64 91 67 82 00 88 
+      0.272                                       0.137  0011: 80 81 00 89 
+      0.409    5F    4G#   5C#                    0.136  0015: 90 4D 91 44 92 49 00 88 
+      0.545    5G    5D    4B                     0.136  001D: 90 4F 91 4A 92 47 00 88 
+      0.681                                       0.137  0025: 80 81 82 00 89 
+      0.818    6G#   6D    6F                     0.136  002A: 90 5C 91 56 92 59 00 88 
+      0.954    5A#   6D#                          0.136  0032: 90 52 91 57 82 00 88 
+      1.090                                       0.137  0039: 80 81 00 89 
+      1.227    5D#   3D#   4D#                    0.136  003D: 90 4B 91 33 92 3F 00 88 
+      1.363    5C    3C    4C                     0.409  0045: 90 48 91 30 92 3C 01 99 
+      1.772                                       0.000  004D: 80 81 82 F0 
+
+At most 3 tone generators were used.
+0 stopnote commands were unnecessary.
+0 consecutive delays could have been merged.

@@ -1,0 +1,38 @@
+MIDITONES_SCROLL V1.8 on Thu Mar 21 00:14:46 2019
+command line: /home/pi/automation/midi_reader/miditones/miditones_scroll tm_SMW_Game_Over 
+reading tm_SMW_Game_Over.bin with 119 bytes
+displaying only 6 tone generators.
+
+       time    gen0  gen1  gen2  gen3  gen4  gen5 delay  addr  bytestream code
+
+      0.000    5D                                 0.075  0000: 90 4A 00 4B 
+      0.075    5D    5F                           0.075  0004: 91 4D 00 4B 
+      0.150    5D    5F    5A                     0.443  0008: 92 51 01 BB 
+      0.593    5D          5A                     0.007  000C: 81 00 07 
+      0.600    5D    5F    5A                     0.293  000F: 91 4D 01 25 
+      0.893                                       0.007  0013: 80 81 82 00 07 
+      0.900    5C                                 0.293  0018: 90 48 01 25 
+      1.193                                       0.007  001C: 80 00 07 
+      1.200    5C#   3C                           0.075  001F: 90 49 91 30 00 4B 
+      1.275    5C#   3C    5E    3G               0.075  0025: 92 4C 93 37 00 4B 
+      1.350    5C#   3C    5E    3G    5A    3A#  0.443  002B: 94 51 95 3A 01 BB 
+      1.793          3C          3G          3A#  0.007  0031: 80 82 84 00 07 
+      1.800    4A#   3C          3G          3A#  0.075  0036: 90 46 00 4B 
+      1.875    4A#   3C    5C#   3G          3A#  0.075  003A: 92 49 00 4B 
+      1.950    4A#   3C    5C#   3G    5E    3A#  0.350  003E: 94 4C 01 5E 
+      2.300    4A#         5C#         5E         0.093  0042: 81 83 85 00 5D 
+      2.393                                       0.007  0047: 80 82 84 00 07 
+      2.400    4A    3F                           0.075  004C: 90 45 91 35 00 4B 
+      2.475    4A    3F    5G    4C               0.075  0052: 92 4F 93 3C 00 4B 
+      2.550    4A    3F    5G    4C    4E         0.443  0058: 94 40 01 BB 
+      2.993          3F    5G    4C    4E         0.007  005C: 80 00 07 
+      3.000    5A    3F    5G    4C    4E         0.293  005F: 90 51 01 25 
+      3.293          3F    5G    4C    4E         0.007  0063: 80 00 07 
+      3.300    6D    3F    5G    4C    4E         0.293  0066: 90 56 01 25 
+      3.593          3F    5G    4C    4E         0.007  006A: 80 00 07 
+      3.600    6G    3F    5G    4C    4E         1.050  006D: 90 5B 04 1A 
+      4.650                                       0.000  0071: 80 81 82 83 84 F0 
+
+At most 6 tone generators were used.
+0 stopnote commands were unnecessary.
+0 consecutive delays could have been merged.
